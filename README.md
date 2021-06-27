@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rutu342
+- 👋 Hi, I’m Rutuja Shastri
 - 👀 I’m interested in painting,sketching and coding
 - 🌱 I’m currently learning python c++ data structures and web deveopment
 - 💞️ I’m looking to collaborate on python and frontend developement
