@@ -1,10 +1,2 @@
-- 👋 Hi, I’m Rutuja Shastri
-- 👀 I’m interested in painting,sketching and coding
-- 🌱 I’m currently learning python c++ data structures and web deveopment
-- 💞️ I’m looking to collaborate on python and frontend developement
-- 📫 How to reach me shastrirutuja123@gmail.com
+Hello folks [hello](https://user-images.githubusercontent.com/82323997/128971340-1d7996bc-805e-41f9-bbb1-e63f6e6dc336.gif!
 
-<!---
-rutu342/rutu342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
